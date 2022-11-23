@@ -1,6 +1,7 @@
 import fix_yahoo_finance as fyf
 import numpy as np
 import pandas as pd
+import matplotlib
 import matplotlib.pyplot as plt
 import pandas_datareader as data
 from pandas_datareader import data as pdr
